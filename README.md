@@ -7,7 +7,10 @@ users to enter a word and specify the desired number of lines for automatic gene
 of natural language processing (NLP) and deep learning brings automated poetry composition to life, offering an 
 innovative approach to computational creativity. 🎶
 
+# Try app
+[Poetry_Generator_Roman_urdu_DRU_model](https://huggingface.co/spaces/ahmad920192/Poetry_Generator_Roman_urdu_DRU_model)
+
 # Meduim Bolg
-https://medium.com/@mahmad92001/deploying-a-roman-urdu-ghazal-generator-using-a-gru-model-on-streamlit-19a5df59fd2a
+[Blog link](https://medium.com/@mahmad92001/deploying-a-roman-urdu-ghazal-generator-using-a-gru-model-on-streamlit-19a5df59fd2a)
 
 ![Portfolio Preview](https://github.com/Muhammad-Ahmad092/GRU-model-Roman-Urdu-Ghazal-Generator/blob/main/Perview-urdu.jpg)
