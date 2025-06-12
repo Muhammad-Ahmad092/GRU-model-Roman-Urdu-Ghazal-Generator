@@ -8,7 +8,7 @@ of natural language processing (NLP) and deep learning brings automated poetry c
 innovative approach to computational creativity. 🎶
 
 # Try app
-[Poetry_Generator_Roman_urdu_DRU_model](https://huggingface.co/spaces/ahmad920192/Poetry_Generator_Roman_urdu_DRU_model)
+[Poetry Generator Roman urdu DRU model](https://huggingface.co/spaces/ahmad920192/Poetry_Generator_Roman_urdu_DRU_model)
 
 # Meduim Bolg
 [Blog link](https://medium.com/@mahmad92001/deploying-a-roman-urdu-ghazal-generator-using-a-gru-model-on-streamlit-19a5df59fd2a)
